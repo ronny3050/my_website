@@ -24,14 +24,13 @@ view = 1
 [[filter]]
   name = "All"
   tag = "*"
-  
+
 [[filter]]
-  name = "Deep Learning"
+  name = "Academics"
   tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Games"
+  tag = ".game"
 
 +++
-
